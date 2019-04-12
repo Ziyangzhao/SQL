@@ -1,0 +1,41 @@
+body{
+	background-color: #181818;
+}
+
+div{
+	border-radius: 10px;
+}
+
+input{
+	border-color: #8A2BE2;
+	height: 30px;
+	width: 200px;
+	font-size: 20px;
+}
+
+.extra{
+	margin-top: 100px;
+	background-color: white;
+}
+
+.video{
+	margin-top: 100px;
+	text-align: center;
+}
+
+.input{
+	margin-top: 100px;
+	background-color: white;
+}
+
+.form{
+	margin-top: 100px;
+	background-color: white;
+	padding-bottom: 20px
+}
+
+.uitleg{
+	margin-top: 20px;
+	background-color: white;
+	padding-bottom: 20px;
+}
